@@ -1,0 +1,37 @@
+:root {
+    background-image: url("img/bg.jpg");
+    background-color: #4A3F3A;
+}
+
+.box {
+    background-image: url("img/box1.jpg");
+    background-size: 100%;
+    background-color: #F8DC95;
+    border-radius: 20px;
+    margin: 2%;
+    text-align: center;
+}
+.box img {
+   /* background-color: white;*/
+    margin: 5px auto 5px auto;
+    border-radius: 100%;
+    width:20%;
+    border:3px solid #fff;
+    margin-left: 1%;
+
+}
+.title {
+    background-image: url("img/title.jpg");
+    background-size: 100%;
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    text-align: center;
+    font-size: 300%;
+    
+
+}
+.price {
+    color: aqua;
+    font-family: Andale Mono,AndaleMono,monospace;
+}
