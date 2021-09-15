@@ -1,0 +1,25 @@
+#container {
+    border: #000000 solid 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90%;
+    position: inherit;
+    background-color: #eff2ff;
+    display: grid;
+    /* aqui eu defino que o Grid tem Duas colunas uma com width:auto e outra com 50px */
+    grid-template-columns: auto 50px; 
+}
+#esquerdo {
+    vertical-align: top;
+    height: 100px;
+    background-color: red;
+    display: inline-block;
+}
+#direito {
+    vertical-align: top;
+    height: 100px;
+    background-color: yellow;
+    display: inline-block;
+}
+
+    
