@@ -93,14 +93,16 @@
 }
 
 .produto .nome_p{
-    margin: 5px auto 0px 20px ;
+    margin: 5px auto 0px 5px ;
     font-size: 120%;
 }
 
 .produto hr {
     border:0px;  
+    margin: 0px 0px 1% 0px;
     border-top:4px dotted;
-    width:93%;
+    width:90%;
+    align-content: center;
     align-self:flex-end;
 }
 
@@ -110,7 +112,7 @@
     font-size: 100%;
 }
 
-.ingred_p{
+.ingredentes_p{
     margin: 0px 0px 0px 20px;   
     font-weight: 400; 
     text-align: left;
