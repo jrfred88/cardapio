@@ -1,4 +1,4 @@
-# cardapio-boteco
+# Cardapio-Boteco
 Cardapio Emporio Sertoes
 
 O cardápio da empresa onde trabalho hoje é um site com varias imagens, e demora um tempo considerável para abrir em condições não muito boas de internet.
@@ -10,7 +10,7 @@ Resolvi criar o mesmo todo em HTML e CSS para que carregue mais rápido e os cli
 
 
 
-# menu-bar
+# Menu-Bar
 Emporio Sertoes menu
 
 The menu of the company where I work today is a website with several images, and it takes a considerable time to open in not very good internet conditions.
